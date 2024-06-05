@@ -1,1 +1,1 @@
-# Amazon_Clone :A clone of amzon using HTML,CSS of advanced level.
+# Amazon_Clone :A clone of amazon using HTML,CSS of advanced level.
